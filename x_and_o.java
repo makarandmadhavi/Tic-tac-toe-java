@@ -1,4 +1,4 @@
-
+    
 import java.io.*;
 public class x_and_o
 {
@@ -87,7 +87,7 @@ public class x_and_o
             //  Handle any exceptions.
         }
 
-        System.out.println("\t\t  ==== Tic Tac Toe ====                 © Makjets Studios");
+        System.out.println("\t\t  ==== Tic Tac Toe ====                 "+(char)169+" Makjets Studios");
         System.out.println("\t\t         X and O \n");
         System.out.print("\t   Score- ");
         if(cs==1)
